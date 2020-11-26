@@ -9,30 +9,135 @@
     "icon": "fa fa-file-text-o",
     "slug": "tema-1",
     "title": "1. Antecedentes de investigación de mercados",
-    "path": "pages/tema-1.html"
+    "path": "pages/tema-1.html"    
   },
   {
     "icon": "fa fa-file-text-o",
     "slug": "tema-2",
     "title": "2. Variables del mercado",
-    "path": "pages/tema-2.html" 
+    "path": "pages/tema-2.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-2",
+        "title": "2.1 ¿Qué es una variable del mercado?",
+        "anchor": "tema-21"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-2",
+        "title": "2.2 Variables externas",
+        "anchor": "tema-22"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-2",
+        "title": "2.3 Variables internas",
+        "anchor": "tema-23"
+      }      
+    ]       
   },
   {
     "icon": "fa fa-play-circle",
     "slug": "tema-3",
     "title": "3. Recolección de información",
-    "path": "pages/tema-3.html"
+    "path": "pages/tema-3.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-3",
+        "title": "3.1 Tipos de investigación",
+        "anchor": "tema-31"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-3",
+        "title": "3.2 Fuentes de información",
+        "anchor": "tema-32"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-3",
+        "title": "3.3 Técnicas de recolección de información",
+        "anchor": "tema-33"
+      }      
+    ]           
   },
   {
     "icon": "fa fa-file-text-o",
     "slug": "tema-4",
     "title": "4. Matrices de diagnóstico",
-    "path": "pages/tema-4.html"
+    "path": "pages/tema-4.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-4",
+        "title": "4.1 Matriz de Ansoff",
+        "anchor": "tema-41"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-4",
+        "title": "4.2 Matriz BCG",
+        "anchor": "tema-42"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-4",
+        "title": "4.3 Matriz de competitividad",
+        "anchor": "tema-43"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-4",
+        "title": "4.4 Matriz DOFA",
+        "anchor": "tema-44"
+      }            
+    ]           
+
   },
   {
     "icon": "fa fa-question-circle",
     "slug": "tema-5",
     "title": "5. Proceso de investigación",
-    "path": "pages/tema-5.html"
+    "path": "pages/tema-5.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-5",
+        "title": "5.1 Identificación del problema",
+        "anchor": "tema-51"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-5",
+        "title": "5.2 Metodología",
+        "anchor": "tema-52"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-5",
+        "title": "5.3 Recolección de datos",
+        "anchor": "tema-53"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-5",
+        "title": "5.4 Análisis de información",
+        "anchor": "tema-54"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-5",
+        "title": "5.5 Conclusiones",
+        "anchor": "tema-55"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-5",
+        "title": "5.6 Estrategias",
+        "anchor": "tema-56"
+      }                        
+    ]               
   }
 ]
